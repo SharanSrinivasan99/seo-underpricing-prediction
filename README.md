@@ -34,12 +34,6 @@ We built a predictive pipeline using historic SEO data, market indicators (e.g.,
 
 ---
 
-## 📂 Files in This Repo
-
-| File | Description |
-|------|-------------|
-| `SEO_Under_Code.ipynb` | Jupyter Notebook with data prep, modelling, and evaluation |
-| `717-Group 1.pptx` | Final presentation deck with insights, visuals, and recommendations |
 
 
 
